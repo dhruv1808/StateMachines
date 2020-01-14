@@ -1,0 +1,20 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.ALL;
+USE ieee.numeric_std.ALL;
+
+
+entity mux_error is port (
+	
+	
+
+
+);
+end entity mux_error;
+
+
+architecture one of mux_error is
+
+begin
+
+
+end one;
